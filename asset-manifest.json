@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/googleSearchSuggestions-App/static/css/main.c0d1fed2.chunk.css",
+    "main.js": "/googleSearchSuggestions-App/static/js/main.c4798a70.chunk.js",
+    "main.js.map": "/googleSearchSuggestions-App/static/js/main.c4798a70.chunk.js.map",
+    "runtime-main.js": "/googleSearchSuggestions-App/static/js/runtime-main.57fd0453.js",
+    "runtime-main.js.map": "/googleSearchSuggestions-App/static/js/runtime-main.57fd0453.js.map",
+    "static/js/2.c6f6976a.chunk.js": "/googleSearchSuggestions-App/static/js/2.c6f6976a.chunk.js",
+    "static/js/2.c6f6976a.chunk.js.map": "/googleSearchSuggestions-App/static/js/2.c6f6976a.chunk.js.map",
+    "index.html": "/googleSearchSuggestions-App/index.html",
+    "static/css/main.c0d1fed2.chunk.css.map": "/googleSearchSuggestions-App/static/css/main.c0d1fed2.chunk.css.map",
+    "static/js/2.c6f6976a.chunk.js.LICENSE.txt": "/googleSearchSuggestions-App/static/js/2.c6f6976a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57fd0453.js",
+    "static/js/2.c6f6976a.chunk.js",
+    "static/css/main.c0d1fed2.chunk.css",
+    "static/js/main.c4798a70.chunk.js"
+  ]
+}
